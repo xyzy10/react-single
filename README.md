@@ -4,7 +4,7 @@
 
 ## Install
 ```sh
-cd react-optical
+cd react-single
 npm install
 npm start
 ```
